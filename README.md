@@ -8,7 +8,7 @@ Cafe App, with a frontend built in React & Redux and a backend built in Django A
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://backend-tasty-taters-kelsey.kelsey214.repl.co) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-tasty-taters-kelsey.kelsey214.repl.co/) here!!
 
 Check out [API LIVE DEMO](https://backend-tasty-taters-kelsey.kelsey214.repl.co) here!!
 
