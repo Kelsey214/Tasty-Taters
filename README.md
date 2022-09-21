@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://tasty-tater-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone
+git clone https://github.com/Kelsey214/Tasty-Taters.git
 ```
 
 2. Backend setting
